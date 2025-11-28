@@ -1,5 +1,4 @@
-{"id":"98515","variant":"standard"}
-# 🌐 Local Marketplace + Route‑based Micro‑Delivery Hub
+# SwiftShop BD – Local Marketplace & Route‑based Micro‑Delivery Hub
 
 ---
 
